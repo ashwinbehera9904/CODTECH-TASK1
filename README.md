@@ -19,4 +19,5 @@ Key Activities
 3)Data Visualization
 4)Testing and Validation
 
+Output:-
 ![image alt](https://github.com/ashwinbehera9904/CODTECH-TASK1/blob/75d52cbe6644facb4c0e4b5a0e53a22adddc66c3/Screenshot%202024-12-30%20175818.png)
